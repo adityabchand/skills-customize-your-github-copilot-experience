@@ -4,6 +4,8 @@
 
 Students will learn the basics of data analysis using Python. They will load, explore, and analyze a dataset to extract meaningful insights.
 
+**Skills practiced:** Data loading, exploratory data analysis (EDA), statistical analysis, data visualization
+
 ## 📝 Tasks
 
 ### 🛠️ Data Loading and Exploration

@@ -4,6 +4,8 @@
 
 Learn how to define and use classes in Python to model real-world objects and behaviors.
 
+**Skills practiced:** Object-oriented programming, class definition, methods, attributes, instance creation
+
 ## 📝 Tasks
 
 ### 🛠️ Define a Simple Class
