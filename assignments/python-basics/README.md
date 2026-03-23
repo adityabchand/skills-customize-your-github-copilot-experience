@@ -5,6 +5,8 @@
 
 Practice fundamental Python programming skills including user input, string formatting, arithmetic operations, and conditional statements by implementing simple functions.
 
+**Skills practiced:** User input, string formatting, arithmetic operations, conditional statements, functions
+
 ## 📝 Tasks
 
 ### 🛠️ User Input and String Formatting
